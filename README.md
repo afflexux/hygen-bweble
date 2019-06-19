@@ -1,2 +1,4 @@
 # hygen-bweble
-Repo for hygen templates
+Repo for Hygen templates for use in Vue and Nuxt
+##
+https://www.hygen.io/
