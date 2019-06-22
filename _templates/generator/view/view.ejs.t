@@ -1,11 +1,11 @@
 ---
-to: "src/views/<%= h.changeCase.pascal(name) %>.vue"
+to: "src/views/<%= h.changeCase.header(name) %>.vue"
 ---
 <%
 if (blocks.indexOf('template') !== -1) {
 %><template>
   <section class="<%= h.inflection.dasherize(name) %>">
-    <h1>The <%= h.inflection.capitalize(name) %> Page</h1>
+    <h1>The <%= h.changeCase.title(name) %> Page</h1>
   </section>
 </template>
 <%

@@ -5,6 +5,6 @@ before: inset
 ---
 ,{
           id: <%= id %>,
-          text: "<%= Name %>",
-          page: "/<%= h.changeCase.lower(name) %>"
+          text: "<%= h.changeCase.title(name) %>",
+          page: "/<%= h.changeCase.param(name) %>"
         },
