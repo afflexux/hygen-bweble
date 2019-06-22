@@ -10,6 +10,17 @@ module.exports = [{
     },
   },
   {
+    type: 'input',
+    name: 'id',
+    message: 'Link ID:',
+    validate(value) {
+      if (!value.length) {
+              return 'You must choose an ID!'
+            }
+      return true
+    },
+  },
+  {
     type: 'multiselect',
     name: 'blocks',
     message: 'Blocks:',

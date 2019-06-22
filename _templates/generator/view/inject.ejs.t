@@ -1,9 +1,9 @@
 ---
 inject: true
 to: "src/router.js"
-after: routes
+before: inset
 ---
-{
+,{
       path: '/<%= h.changeCase.lower(name) %>',
       name: '<%= h.changeCase.lower(name) %>',
       // route level code-splitting

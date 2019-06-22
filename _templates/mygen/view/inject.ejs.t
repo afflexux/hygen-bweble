@@ -1,7 +1,7 @@
 ---
 inject: true
 to: "src/router.js"
-before: inset
+after: routes
 ---
 {
       path: '/<%= h.changeCase.lower(name) %>',
