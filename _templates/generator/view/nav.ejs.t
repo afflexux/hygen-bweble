@@ -1,10 +1,10 @@
 ---
 inject: true
-to: "src/components/layout/NavBar.vue"
+to: "src/components/layout/nav/NavBar.vue"
 before: inset
 ---
-,{
+{
           id: <%= id %>,
-          text: "<%= h.changeCase.title(name) %>",
-          page: "/<%= h.changeCase.param(name) %>"
+          text: "<%= Name %>",
+          page: "/<%= h.changeCase.lower(name) %>"
         },
