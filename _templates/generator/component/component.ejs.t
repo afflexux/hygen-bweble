@@ -19,7 +19,7 @@ if (blocks.indexOf('script') !== -1) {
     components: {
 
     },
-    props: [],
+    props: {},
     mounted() {
 
     },
