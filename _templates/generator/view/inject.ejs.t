@@ -3,7 +3,7 @@ inject: true
 to: "src/router.js"
 before: inset
 ---
-,{
+  {
       path: '/<%= h.changeCase.param(name) %>',
       name: '<%= h.changeCase.param(name) %>',
       // route level code-splitting
