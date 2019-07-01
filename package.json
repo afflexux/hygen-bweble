@@ -1,6 +1,6 @@
 {
   "name": "hygen-bweble",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A repo for my hygen templates",
   "main": "index.js",
   "scripts": {
