@@ -22,8 +22,8 @@ module.exports = [
     message: 'Directory:',
     validate(value) {
       if (!value.length) {
-              return 'You must choose a Directory - Just One!'
-            }
+        return 'You must choose a Directory - Just One!'
+      }
       return true
     },
   },
@@ -31,10 +31,11 @@ module.exports = [
     type: 'input',
     name: 'lang',
     message: 'Language:',
+    initial: 'postcss',
     validate(value) {
       if (!value.length) {
-              return 'You must choose a Language - Just One!'
-            }
+        return 'You must choose a Language - Just One!'
+      }
       return true
     },
   },
