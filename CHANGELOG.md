@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 &NewLine;
 &NewLine;
 
-#Unreleased
+# Unreleased
  
 Plans for future releases
 ## [1.0.0] - yyyy-mm-dd
@@ -32,7 +32,7 @@ Plans for future releases
 &NewLine;
 &NewLine;
 
-#Released
+# Released
  
 ## [0.0.9] - 2019-07-31
  
