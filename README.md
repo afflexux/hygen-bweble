@@ -9,7 +9,7 @@
 
 # hygen-bweble
 
-### Hygen templates for use in Vue CLI and Nuxt
+Hygen templates for use in Vue CLI projects
 
 ## Install
 #### Install hygen-add if not already
