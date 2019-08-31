@@ -34,6 +34,24 @@ Plans for future releases
 
 # Released
  
+## [0.0.11] - 2019-08-31
+ 
+### Added
+ 
+- None
+
+### Removed
+
+- None
+
+### Changed
+  
+- None
+ 
+### Fixed
+
+- Security Fix
+ 
 ## [0.0.10] - 2019-08-18
  
 ### Added
