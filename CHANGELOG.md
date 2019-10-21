@@ -34,6 +34,24 @@ Plans for future releases
 
 # Released
  
+## [0.0.12] - 2019-10-21
+ 
+### Added
+ 
+- None
+
+### Removed
+
+- None
+
+### Changed
+  
+- None
+ 
+### Fixed
+
+- Updated Dependencies
+
 ## [0.0.11] - 2019-08-31
  
 ### Added
