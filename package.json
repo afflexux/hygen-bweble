@@ -22,6 +22,6 @@
   "homepage": "https://github.com/afflexux/hygen-bweble#readme",
   "devDependencies": {
     "eslint": "^6.5.1",
-    "hygen": "^4.0.11"
+    "hygen": "^5.0.1"
   }
 }
