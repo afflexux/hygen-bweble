@@ -34,6 +34,26 @@ Plans for future releases
 
 # Released
 
+## [0.0.22] - 2021-04-04
+
+### Added
+
+- None
+
+### Removed
+
+- None
+
+### Changed
+
+- Updated Changelog
+
+### Fixed
+
+- Updated Dependencies
+
+# Released
+
 ## [0.0.21] - 2021-04-04
 
 ### Added
