@@ -11,6 +11,8 @@
 
 Hygen templates for use in Vue CLI projects
 
+DEPRECATED: Please use [Nuxi](https://www.npmjs.com/package/nuxi)
+
 ## Install
 #### Install hygen-add if not already
 
